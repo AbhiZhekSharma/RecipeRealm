@@ -40,9 +40,6 @@ RecipeRealm/
 5. Deploy the project on Apache Tomcat.
 6. Visit `http://localhost:8080/RecipeRealm` to start using the application.
 
-## 📸 Screenshots
-(Add screenshots of your UI here.)
-
 ## 🔐 Roles
 - **User:** Register, Login, Add/View Recipes, Comment
 - **Admin:** Approve Recipes, Moderate Comments
